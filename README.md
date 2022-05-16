@@ -2,6 +2,9 @@
 This app will allow user to draw pictures by filling in each cell (Pixel).
 
 # Try is out
+
+Set columns to width of screen or less to prevent wrapping of the cells.
+
 https://miltonmelson.github.io/PixelArtMaker/
 
 # Exercise to build yourself
